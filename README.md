@@ -1,5 +1,5 @@
 # Collaborative-Filtering
-The project uses Movielens dataset (the 100K dataset) which is available open source.
+The project uses Movielens dataset (the 100K dataset) which is available as open source.
 It computes the following four algorithms (on the raw ratings data, without baseline correction) and calculate how the NMAE (Normalized Mean Absolute Error) varies.
 1. Non-Negative Matrix Factorization (NNMF)
 2. Incremented Rank Power Factorization (IRPF)
